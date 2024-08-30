@@ -19,7 +19,7 @@ const firebaseConfig = {
   projectId: "",
   storageBucket: "",
   messagingSenderId: "",
-  appId: "1",
+  appId: "",
   measurementId: "",
 };
 
